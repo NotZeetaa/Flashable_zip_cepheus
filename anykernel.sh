@@ -10,9 +10,7 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=raphael
-device.name2=raphaelin
-device.name3=cepheus
+device.name1=cepheus
 supported.versions=11
 supported.patchlevels=
 '; } # end properties
